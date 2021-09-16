@@ -28,6 +28,7 @@ exact_by_default=true
 module.file_ext=.js
 module.file_ext=.json
 module.file_ext=.ios.js
+module.file_ext=.native.js
 
 munge_underscores=true
 
